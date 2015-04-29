@@ -3,7 +3,7 @@ This repository contains code for a recommendation engine - (based on collaborat
 
 DataSet was sourced from https://www.kaggle.com/c/yelp-recsys-2013.
 The JSON used from the dataset is "yelp_training_set_review.json".
-Please download it for the code to run. This can be considered a representative of the larger Yelp academic dataste.
+Please download it for the code to run. This can be considered a representative of the larger Yelp academic dataset.
 
 SI650_project_v6.py can be run to get RMSE value for Pearson correlation coefficient.
 
