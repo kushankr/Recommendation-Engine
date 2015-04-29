@@ -1,0 +1,8 @@
+euclidean
+1.42117566441
+manhattan
+1.42705461979
+chebyshev
+1.42069228564
+minkowski
+1.42117566441
