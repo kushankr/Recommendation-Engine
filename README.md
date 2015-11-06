@@ -16,9 +16,5 @@ One major Reference for the code is the book:
 Programming collective intelligence: Toby Segaran
 Other references are contained within the code.
 
-The code takes a certain amount of time to run, so please be patient.
-
-For further details, Please refer to the project report. 
-More specifically, please refer to the collaborative filtering section of project report submitted.  
 
 
