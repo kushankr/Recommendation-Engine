@@ -1,20 +1,10 @@
-# SI650_recommendationengine
-This repository contains code for a recommendation engine - (based on collaborative filtering approach)
+Recommendation Engine using Python
+-------------------------------------
 
-DataSet was sourced from https://www.kaggle.com/c/yelp-recsys-2013.
-The JSON used from the dataset is "yelp_training_set_review.json".
-Please download it for the code to run. This can be considered a representative of the larger Yelp academic dataset.
+This recommendation engine is based on a collaborative filtering approach.
 
-SI650_project_v6.py can be run to get RMSE value for Pearson correlation coefficient.
+[DataSet](https://www.kaggle.com/c/yelp-recsys-2013)
 
-SI650_project_v7.py can be run to get RMSE values for following distance measures:
-“Euclidean distance”, “Manhattan distance”, “Chebyshev distance”, and “Minkowski distance”.
+[Project Report](/docs/RecommendationEngineReport.pdf)
 
-SI650_project_v6.txt and SI650_project_v7.txt will be generated and it will contain corresponding outputs.
-
-One major Reference for the code is the book:
-Programming collective intelligence: Toby Segaran
-Other references are contained within the code.
-
-
-
+Reference: Programming collective intelligence: Toby Segaran
